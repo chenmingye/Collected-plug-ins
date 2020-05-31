@@ -81,3 +81,22 @@ export default TinymceEditor;
 <TinymceEditor />
 ```
 
+###### 目录
+
+```js
+.
+├─tinymce
+|    ├─changelog.txt //日志
+|    ├─tinymce.md //描述
+|    ├─js
+|    | ├─tinymce 
+|    | |    ├─jquery.tinymce.min.js //jq版
+|    | |    ├─license.txt
+|    | |    ├─tinymce.html
+|    | |    ├─tinymce.min.js //需要引入的文件
+|    | |    ├─themes //主题
+|    | |    ├─skins //皮肤
+|    | |    ├─plugins //插件
+|    | |    ├─langs //国际化
+```
+
